@@ -16,13 +16,13 @@
 - Good at programming **C,C++,java,C#,python,javascript,bash,lua,matlab,octave,CMake** in "Hello,world!".
 - Knowing **Ubuntu,ArchLinux,Manjaro,Deepin,Mint,OpenSuse,Kali**'s spelling
 - Programming in **OpenCV、Qt、ROS** at least one line
-- Skillful in **Visual Studio、VSCode、IntelliJ IDEA、Pycharm、WebStorm、Android Studio、Clion、Eclipse、Qt Creator、Chrome、Vim、Keil、IAR**'s installation and uninstallation.
-- Used many MCU ,such as STM32,Kinetis K66,MSP430,MSP432,RaspberryPi to light an LED
+- Skillful in **Visual Studio、VSCode、IntelliJ IDEA,Pycharm,WebStorm、Android Studio,Clion,Eclipse,Qt Creator,Chrome,Vim,Keil、IAR**'s installation and uninstallation.
+- Used many MCU ,such as **STM32,Kinetis K66,MSP430,MSP432,RaspberryPi** to light an LED
 
 #### Experience
 - Joined in an 100 billion dollars world-famous project of blockchains.
 
-
+<!--
 ### 你好，这里是IronSublimate
 - 北京理工大学自动化学院硕士研究生
 - [个人博客（没什么用）](https://ironsublimate.github.io/)
@@ -42,7 +42,7 @@
 
 #### 经历
 - 参加过价值百亿美金的国际知名的区块链项目
-
+-->
 
 <!-- 
 
