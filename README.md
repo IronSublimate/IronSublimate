@@ -17,7 +17,7 @@
 - Knowing **Ubuntu,ArchLinux,Manjaro,Deepin,Mint,OpenSuse,Kali**'s spelling
 - Programming in **OpenCV、Qt、ROS** at least one line
 - Skillful in **Visual Studio、VSCode、IntelliJ IDEA,Pycharm,WebStorm、Android Studio,Clion,Eclipse,Qt Creator,Chrome,Vim,Keil、IAR**'s installation and uninstallation.
-- Used many MCU ,such as **STM32,Kinetis K66,MSP430,MSP432,RaspberryPi** to light an LED
+- Used many MCUs, such as **STM32,Kinetis K66,MSP430,MSP432,RaspberryPi** to light an LED
 
 #### Experience
 - Joined in an 100 billion dollars world-famous project of blockchains.
