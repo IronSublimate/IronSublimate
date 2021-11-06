@@ -1,7 +1,7 @@
 ### Hi, I'm IronSublimate 👋
 [中文](https://github.com/IronSublimate/IronSublimate/blob/main/README-zh_cn.md)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IronSublimate&show_icons=true&theme=radical" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IronSublimate&show_icons=true&theme=tokyonight" />
 
 
 - Postgraduate student in School of Automation, Beijing Insititute of Technology 
@@ -15,7 +15,7 @@
 - Special Award of Touching China in 2008
 - Time Person of the Year in 2006
 
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronSublimate&layout=compact&hide=SWIG,HTML,CSS,SCSS&show_icons=true&theme=radical" />
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronSublimate&layout=compact&hide=SWIG,HTML,CSS,SCSS&show_icons=true&theme=tokyonight" />
 
 #### Skills
 
