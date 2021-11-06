@@ -7,6 +7,7 @@
 - Postgraduate student in School of Automation, Beijing Insititute of Technology 
 - [Personal Blog(useless)](https://ironsublimate.github.io/)
 - E-mail: houyuxuan3120487@163.com
+- [Twitter](https://twitter.com/IronSublimate)
 
 #### High Lights
 
