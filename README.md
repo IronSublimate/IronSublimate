@@ -28,6 +28,7 @@
 #### Experience
 - Joined in an 100 billion dollars world-famous project of blockchains.
 
+ <img width="50%" align="bottom" src="https://github.com/IronSublimate/GitHubPoster/blob/main/OUT_FOLDER/leetcode.svg" />
 <!--
 ### 你好，这里是IronSublimate
 - 北京理工大学自动化学院硕士研究生
