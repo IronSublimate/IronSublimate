@@ -4,7 +4,8 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IronSublimate&show_icons=true&theme=tokyonight" />
 
 
-- Postgraduate student in School of Automation, Beijing Insititute of Technology 
+- Work at Xiaomi
+- Got Master's Degree in School of Automation, Beijing Insititute of Technology 
 - [Personal Blog(useless)](https://ironsublimate.github.io/)
 - E-mail: houyuxuan3120487@163.com
 - [Twitter](https://twitter.com/IronSublimate)
