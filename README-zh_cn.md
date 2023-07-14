@@ -2,7 +2,8 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IronSublimate&show_icons=true&theme=tokyonight&locale=cn" />
 
-- 北京理工大学自动化学院硕士研究生
+- 在小米工作
+- 于北京理工大学自动化学院取得硕士学位
 - [个人博客（没什么用）](https://ironsublimate.github.io/)
 - 邮箱:houyuxuan3120487@163.com
 
